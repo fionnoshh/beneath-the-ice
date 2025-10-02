@@ -18,3 +18,12 @@ ___
 14. Harry Duncan Spens Goodsir
 15. Charles Hamilton Osmer
 16. Thomas Terry
+17. John Weekes
+18. John Gregory
+19. Samuel Brown
+20. Thomas Watson
+21. Philip Reddington
+22. Daniel Arthur
+23. William Bell
+24. John Downing
+25. John Murray
