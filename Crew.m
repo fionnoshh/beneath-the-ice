@@ -3,9 +3,19 @@
 ___
 ### The HMS *Erebus*
 1. Sir John Franklin
+⋅⋅⋅⋅* Captain
+⋅⋅⋅⋅* From Lincolnshire
+⋅⋅⋅⋅* 59 years old in 1845
 2. James Fitzjames
+⋅⋅⋅⋅* Commander
+⋅⋅⋅⋅* From London
+⋅⋅⋅⋅* 31 years old in 1845
 3. Graham Gore
+⋅⋅⋅⋅* First Lieutenant (Commander)
+⋅⋅⋅⋅* From Plymouth
+⋅⋅⋅⋅* 35 years old in 1845
 4. Henry Thomas Dundas Le Vesconte
+⋅⋅⋅⋅* Second Lieutenant
 5. James Walter Fairholme
 6. James Reid
 7. Robert Orme Sargent
